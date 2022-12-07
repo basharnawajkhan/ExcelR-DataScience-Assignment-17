@@ -29,6 +29,8 @@ rain	outside rain in mm/m2 : 0.0 to 6.4
 Size_Categorie 	the burned area of the forest ( Small , Large)
 
 
+
+
 Assignment - 2:
 
 Problem Statement - Prepare a classification model using SVM for salary data 
